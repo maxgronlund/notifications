@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = Notifications::VERSION
   s.authors     = ["Max Grønlund"]
   s.email       = ["max@synthmax.dk"]
-  s.homepage    = "TODO"
+  s.homepage    = "https://github.com/maxgronlund/notifications"
   s.summary     = "TODO: Summary of Notifications."
   s.description = "TODO: Description of Notifications."
   s.license     = "MIT"
